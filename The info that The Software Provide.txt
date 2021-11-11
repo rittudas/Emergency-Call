@@ -1,0 +1,8 @@
+The info that The Software Provide
+1. Area Name
+2. Hospitals Name and Number
+3. Ambulance Number
+4. Fire Service Number
+5. Police Station Number
+6.Electricity
+7. Hospital Address
